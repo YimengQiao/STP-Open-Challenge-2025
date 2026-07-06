@@ -37,8 +37,10 @@ STP-Open-Challenge-2025/
 │   ├── README.md                 # How to score predictions locally / on Codabench
 │   └── scoring.py                # Reference SCC scoring program
 │
+├── requirment.txt                # Environmental config
 ├── LICENSE                       # Apache-2.0 (repository code)
 └── README.md                     # You are here
+
 ```
 ---
 <!-- ## Getting started

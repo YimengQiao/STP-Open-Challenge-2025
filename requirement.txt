@@ -1,0 +1,8 @@
+pandas
+numpy
+scanpy
+deeperhistreg
+scipy
+simpleitk
+matplotlib
+scikit-learn
